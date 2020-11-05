@@ -1,4 +1,4 @@
-# Mini-Project-
+# Mini-Project-Drawing Using The Nose
 By Chloe Kim and Sarah Zaheer
 
 
